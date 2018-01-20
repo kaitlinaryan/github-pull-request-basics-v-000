@@ -79,7 +79,7 @@ Now click Create pull request.
 
 ### Add Commits To An Existing Pull Request
 
-Let's say you make a pull request from
+Let's say you make a pull request from 
 `https://github.com/your-user-name/awesome-lab` to
 `https://github.com/learn-co-students/awesome-lab`. Then you notice you made a
 typo in your code. All you have to do is fix the typo, commit it and push up
